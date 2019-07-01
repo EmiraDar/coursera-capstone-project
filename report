@@ -1,0 +1,11 @@
+### Introduction/Business Problem
+One of the first thing you do when looking to open a new venue is to find the right location for your business. To do so you might research different locations as well as research competitors in those locations.
+Idea: Use Foursquare to gather information about different competitors in different locations and then predict some statistics for a new venue depending on category and location.
+
+### Data
+The data I will be using consists on a list of trending venues in a specific area. To each venue the following information:
+-	Name
+-	ID
+-	Category
+-	Location
+-	Statistics
