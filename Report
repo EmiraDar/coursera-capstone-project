@@ -1,11 +1,19 @@
 ### Introduction/Business Problem
-One of the first thing you do when looking to open a new venue is to find the right location for your business. To do so you might research different locations as well as research competitors in those locations.
-Idea: Use Foursquare to gather information about different competitors in different locations and then predict some statistics for a new venue depending on category and location.
+
+I want to open a fast food restaurant in Berlin, and I am looking to find the best city for my new venue. 
+For that I must do some research on different locations as well as competitors in those locations:
+My location must be near to be near to offices, universities and schools to be sure having enough customers
+but not too close to other competitors.
+
+I will be using Foursquare to gather information about different competitors in different locations in Germany
+and then predict some statistics for a new venue depending on restaurant category and location.
 
 ### Data
-The data I will be using consists on a list of trending venues in a specific area. To each venue the following information:
--	Name
--	ID
--	Category
--	Location
--	Statistics
+
+For my use case I will need the following data to determine which locality is the most appropriate for my new venue:
+-	The coordinates (latitude, longitude) of Berlin
+-	The Fast Food venues in Berlin
+-	The offices venues in Berlin
+-	The high schools, universities venues in Berlin
+-	The shopping malls in Berlin
+
